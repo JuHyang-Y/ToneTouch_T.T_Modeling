@@ -1,4 +1,0 @@
-인공지능사관학교에서 제공해주는 gpu환경에서 사용
-CPU  2개
-memory 24Gi
-GPU T4 x1
